@@ -1,6 +1,11 @@
 # Gus ChatGPT Clone
 A personal project by Gus Ferreira, the Gus ChatGPT Clone is a React application designed to mirror the appearance of ChatGPT. It interfaces with the OpenAI API, giving users a firsthand experience of a chatbot powered by state-of-the-art GPT-3.5 model (you can use GPT-4 but you will need to make modifications on server.js).
 
+## link:
+use this link to checkout the application. 
+read bellow about OpenAI API's 'key' that you are going to need for this the application to work. 
+https://gusvf.github.io/GusGPT/
+
 ## Features:
 ### Create New Chats: 
 Start a fresh conversation with the GPT-powered chatbot.

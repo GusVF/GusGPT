@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GusGPT/static/css/main.9f810bb0.css",
+    "main.js": "/GusGPT/static/js/main.4e3c31d0.js",
+    "index.html": "/GusGPT/index.html",
+    "main.9f810bb0.css.map": "/GusGPT/static/css/main.9f810bb0.css.map",
+    "main.4e3c31d0.js.map": "/GusGPT/static/js/main.4e3c31d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f810bb0.css",
+    "static/js/main.4e3c31d0.js"
+  ]
+}
